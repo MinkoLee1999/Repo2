@@ -1,5 +1,5 @@
 # Site settings
-title: "Li Mingke's Resume"
+title: "李明科的简历"
 description: "A resume template for Jekyll and GitHub Pages sites."
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "LI MINGKE"
-resume_title:                   "NUS MS in Business Analytics"
+resume_name:                    "李明科"
+resume_title:                   "新加坡国立大学·商业分析硕士"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "e0709106@u.nus.edu"

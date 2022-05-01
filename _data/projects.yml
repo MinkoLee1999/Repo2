@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Stats on Chemistry
+- project: Predict properties of rare earth N,O complexes using Statistics
+  role: Developer
+  duration: Dec, 2020 &mdash; Jun, 2021
+  # url: "#"
+  description: It's my bachelor thesis, aimed to using historical experiment data to make predictions, to improve efficiency of finding new catalysts.<ul class="resume-item-list"><li>Choose PLSR as the model considering the dataset size and possible correlation.</li><li>Select multiple spatial descriptors to transform the 3-D structure to a vector.</li><li>Finally predict the coordination number with an accuracy of 95%.</li></ul>
+
+# Movie Salon
+- project: Online Movie Salon
+  role: Organizer
+  duration: Nov, 2021 &mdash; Jan, 2022
+  # url: "#"
+  description: It's a weekly online movie salon, where participants could watch movies together, then discuss relevant topics, and share unique insights. Within one month, we gained more than 50 members and 6 external guests.

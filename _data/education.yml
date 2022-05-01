@@ -1,0 +1,24 @@
+# Degree
+- degree: Master of Science, Business Analytics
+  uni: National University of Singapore
+  year: Jul, 2021 &mdash; present
+  awards:
+    - award: CAP 4.38/5, GMAT 740 (3%)
+    - award: 1st Runner-Up in NUS-Convatec Storytelling Workshop
+  summary: Main Modules include Machine Learning, Big-Data Analytics Technology, Data Warehouse and Management, and Analytics in Behaviorial Economics.
+
+- degree: Bachelor of Science, Chemical Biology
+  uni: Nankai University
+  year: Sep, 2017 &mdash; Jun, 2021
+  awards: 
+    - award: NKU Scholarship for Innovation
+    - award: NKU Scholarship for Academic Progress
+    - award: NKU Scholarship for Academic
+  # summary: You can choose to have either a single or multiple awards
+
+- degree: Bachelor of Management, Business Administration
+  uni: Tianjin University
+  year: Dec, 2018 &mdash; Jun, 2021
+  awards:
+    - award: China's Finalists of 17th OVAL International Business Contest for Student
+  # summary: You can choose to have either a single or multiple awards

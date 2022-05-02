@@ -30,9 +30,9 @@
   }
   .switch {
     @include sans;
-    font-size: 3rem;
-    font-weight: 900;
-    text-align: center;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: right;
     letter-spacing: -.15rem;
     line-height: 1;
     margin: 1rem 0 0;
@@ -43,7 +43,7 @@
     font-size: 3rem;
     font-weight: 900;
     text-align: center;
-    letter-spacing: -.15rem;
+    letter-spacing: .15rem;
     line-height: 1;
     margin: 1rem 0 0;
   }

@@ -28,6 +28,15 @@
     margin: 0 auto;
     display: block;
   }
+  .switch {
+    @include sans;
+    font-size: 3rem;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: -.15rem;
+    line-height: 1;
+    margin: 1rem 0 0;
+  }
 
   .header-name {
     @include sans;

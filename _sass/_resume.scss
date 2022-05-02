@@ -19,6 +19,16 @@
 // page header styles
 
 .page-header { padding: 1.5rem 0;
+  .switch {
+    @include sans;
+    font-size: 1rem;
+    font-weight: 100;
+    text-align: center;
+    letter-spacing: .15rem;
+    line-height: 1;
+    margin: 1rem 0 0;
+  }
+
 
   .avatar {
     width: 95px;

@@ -1,13 +1,16 @@
 # Skills
-# Machine Learing
-- skill: Machine Learning with Python
-  description: During the past year, I have had a lot of hands-on machine learning experiences, learned about the whole workflow of a ML task.
-
-
 # Communications strategy
-- skill: SQL, Spark
-  description: Content and marketing strategy,
+- skill: 数据分析
+  description: <ul class="resume-item-list"><li>熟练使用SQL查询，包括窗口函数、嵌套查询等</li><li>有PySpark使用经验，利用RDD和MapReduce分析Amazon商品评论数据和用户信息</li></ul>
+
+
+# Machine Learing
+- skill: 机器学习建模
+  description: <ul class="resume-item-list"><li>利用Pandas进行数据清洗，并分别使用MICE和SMOTE进行空值处理和重采样</li><li>设计workflow并搭建pipeline，针对特征采取不同处理方法，整合数据处理、模型搭建、参数调整和模型评估等部分</li><li>通过分析源代码学习新的机器学习算法，例：AAAI2021最佳论文Informer</li></ul>
+
+# PyTorch 或者 TensorFlow
+
 
 # PowerPoint
-- skill: Slides Artist
-  description: Always the best slides producer within 1 square mile. Able to complete complex tasks with PowerPoint.
+- skill: PPT Master
+  description: 总是方圆一公里最会做PPT的，根据需要设计不同风格。

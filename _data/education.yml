@@ -1,24 +1,27 @@
 # Degree
 - degree: 商业分析·硕士
   uni: 新加坡国立大学
-  year: Jul, 2021 &mdash; Now
+  link: https://msba.nus.edu.sg/
+  year: 2021.07 &mdash; 今
   awards:
     - award: CAP 4.38/5, GMAT 740 (3%)
-    - award: 1st Runner-Up in NUS-Convatec Storytelling Workshop
+    - award: 在NUS-Convatec Storytelling Workshop中获得1st Runner-Up
   summary: 主要课程 include Machine Learning, Big-Data Analytics Technology, Data Warehouse and Management, and Analytics in Behaviorial Economics.
 
 - degree: 化学生物学·学士
   uni: 南开大学
-  year: Sep, 2017 &mdash; Jun, 2021
+  link: https://www.nankai.edu.cn/
+  year: 2017.09 &mdash; 2021.06
   awards: 
-    - award: NKU Scholarship for Innovation
-    - award: NKU Scholarship for Academic Progress
-    - award: NKU Scholarship for Academic
+    - award: 南开大学创新奖学金
+    - award: 南开大学学业进步奖学金
+    - award: 南开大学学业优秀奖学金
   # summary: You can choose to have either a single or multiple awards
 
 - degree: 工商管理·学士
   uni: 天津大学
-  year: Dec, 2018 &mdash; Jun, 2021
+  link: http://www.tju.edu.cn/
+  year: 2018.12 &mdash; 2021.06
   awards:
-    - award: China's Finalists of 17th OVAL International Business Contest for Student
+    - award: 第17届OVAL中日韩大学生商业创意大赛中国区决赛选手
   # summary: You can choose to have either a single or multiple awards

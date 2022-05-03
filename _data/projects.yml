@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Stats on Chemistry
-- project: Predict properties of rare earth N,O complexes using Statistics
-  role: Developer
-  duration: Dec, 2020 &mdash; Jun, 2021
+- project: 利用统计学方法和空间特征预测稀土氮氧复合物的配位特征
+  role: Researcher
+  duration: 2020.12 &mdash; 2021.06
   # url: "#"
-  description: It's my bachelor thesis, aimed to using historical experiment data to make predictions, to improve efficiency of finding new catalysts.<ul class="resume-item-list"><li>Choose PLSR as the model considering the dataset size and possible correlation.</li><li>Select multiple spatial descriptors to transform the 3-D structure to a vector.</li><li>Finally predict the coordination number with an accuracy of 95%.</li></ul>
+  description: 本科学位论文项目，利用稀土氮氧复合物的历史实验数据建立统计学模型预测配位数和配位小分子体积和，从而节约人力资金成本，提高催化剂设计效率。<ul class="resume-item-list"><li>根据样本量小、潜在共线性的数据特征选择偏最小二乘回归作为预测模型</li><li>选择多个空间描述符将稀土氮氧复合物的分子模型转化为向量，经特征工程处理作为输入</li><li>通过调整数据处理方式和模型参数实现对配位数95%+的预测准确率，并有效避免预测配位小分子体积和时的过拟合现象</li></ul>
 
 # Movie Salon
-- project: Online Movie Salon
-  role: Organizer
-  duration: Nov, 2021 &mdash; Jan, 2022
+- project: NUS线上电影沙龙
+  role: 发起人&组织者
+  duration: 2021.11 &mdash; 2022.01
   # url: "#"
-  description: It's a weekly online movie salon, where participants could watch movies together, then discuss relevant topics, and share unique insights. Within one month, we gained more than 50 members and 6 external guests.
+  description: 利用周末组织线上电影沙龙活动帮助疫情下的留新学生沟通交流，以电影为开端，讨论职业规划、行业分析与见解、不同文化背景下的社会现象等，吸引了来自马来西亚、新加坡、中国大陆以及港澳台地区的共计约60人。

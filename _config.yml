@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "李明科"
-resume_title:                   "新加坡国立大学·商业分析硕士"
+resume_title:                   "新加坡国立大学 · 商业分析硕士"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "e0709106@u.nus.edu"
@@ -23,7 +23,7 @@ resume_contact_address:         "#08-42 MDIS Residences, 503 Stirling Road, SG"
 resume_header_contact_info:     "503 Stirling Rd SG, • 176-9567-2048 • e0709106@u.nus.edu"
 display_header_contact_info:    "True"
 
-resume_header_intro: "<p>Amigo! This is Li Mingke, AKA Minko Lee. I'm a fresh grad from NUS, looking for data-science-related jobs. This webpage tells most of my experiences, so it'll definitely help you to know about me!</p>"
+resume_header_intro: "<p>Amigo! 您好，我是李明科，新加坡国立大学商业分析硕士在读，将于9月毕业，正在寻找数据科学相关工作岗位。这是我在课余时间学习制作的个人简历，介绍了大部分的学习和实践经历，将有助于您更好地了解我。当然，更多细节可以通过下方按钮邮件沟通，谢谢~</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -37,9 +37,9 @@ resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
+# resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+# resume_section_associations:    true
 resume_section_interests:       true
 
 # Resume social links
